@@ -1,0 +1,11 @@
+.title {
+    position:relative;
+    font-size:40px;
+    font-weight:700; 
+    letter-spacing:0px;
+    text-transform:uppercase; width:150px;
+    text-align:center;
+    margin:auto;
+    white-space:nowrap;
+    padding:10px 22px 6px 22px;
+}
